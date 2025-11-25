@@ -2,3 +2,5 @@ The following folder contains a program that takes a txt-file as an input, conve
 It then restructes the data based on some parameters and outputs it as a txt-file. In this example, a music playlist is used. 
 
 The data is expected in the format "SONG NAME" - "ARTIST" with every new line containing a new song and artist. 
+
+The terminal will output a bunch of gibberish, but the output file itself does not contain any error.
